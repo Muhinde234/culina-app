@@ -1,0 +1,208 @@
+[
+  {
+    "id":1,
+    "slug": "beef-wellington",
+    "title": "Beef Wellington",
+    "image": "beef.jpeg",
+    "description": "An elegant British classic featuring tender beef fillet wrapped in mushrooms and puff pastry, perfect for special occasions.",
+    "ingredients": [
+      "1.5 lbs beef tenderloin",
+      "2 tbsp olive oil",
+      "8 oz mushrooms, finely chopped",
+      "1 shallot, minced",
+      "2 cloves garlic, minced",
+      "2 tbsp butter",
+      "6 slices prosciutto",
+      "1 tbsp Dijon mustard",
+      "1 sheet puff pastry",
+      "1 egg, beaten"
+    ],
+    "steps": [
+      "Season beef with salt and pepper. Sear in olive oil on all sides, then brush with mustard.",
+      "Sauté mushrooms, shallot, and garlic in butter until dry. Cool.",
+      "Lay out prosciutto slices, spread mushroom mixture, then place beef on top.",
+      "Roll prosciutto around beef, chill for 15 minutes.",
+      "Wrap beef in puff pastry, brush with egg wash.",
+      "Bake at 400°F (200°C) for 35-40 minutes until golden."
+    ],
+    "prepTime": 45,
+    "cookTime": 40,
+    "nutrition": {
+      "calories": 720,
+      "protein": 38,
+      "carbs": 32,
+      "fat": 48
+    },
+    "tags": ["special-occasion", "dinner", "meat"]
+  },
+  {
+    "id":2,
+    "slug": "classic-burger",
+    "title": "Classic Burger",
+    "image": "burger.jpeg",
+    "description": "Juicy, flavorful homemade burgers with all the classic toppings - a crowd-pleasing favorite for cookouts.",
+    "ingredients": [
+      "1 lb ground beef (80/20 blend)",
+      "1 tsp salt",
+      "1/2 tsp black pepper",
+      "1 tsp Worcestershire sauce",
+      "4 burger buns",
+      "Lettuce, tomato, onion for serving",
+      "Cheese slices (optional)",
+      "Condiments of choice"
+    ],
+    "steps": [
+      "Gently mix beef with salt, pepper, and Worcestershire sauce.",
+      "Form into 4 equal patties, make a slight indentation in the center.",
+      "Grill or cook on high heat for 3-4 minutes per side.",
+      "Add cheese if using, cover to melt.",
+      "Toast buns lightly.",
+      "Assemble with your favorite toppings and condiments."
+    ],
+    "prepTime": 15,
+    "cookTime": 10,
+    "nutrition": {
+      "calories": 580,
+      "protein": 32,
+      "carbs": 38,
+      "fat": 34
+    },
+    "tags": ["quick-meal", "grill", "lunch"]
+  },
+  {
+    "id":3,
+    "slug": "chicken-parmesan",
+    "title": "Chicken Parmesan",
+    "image": "chicken.webp",
+    "description": "Crispy breaded chicken topped with marinara and melted cheese - a comforting Italian-American classic.",
+    "ingredients": [
+      "2 chicken breasts, halved horizontally",
+      "1/2 cup flour",
+      "2 eggs, beaten",
+      "1 cup breadcrumbs",
+      "1/2 cup grated Parmesan",
+      "1 cup marinara sauce",
+      "1 cup shredded mozzarella",
+      "1/4 cup olive oil",
+      "Salt and pepper to taste"
+    ],
+    "steps": [
+      "Pound chicken to even thickness, season with salt and pepper.",
+      "Dredge in flour, then egg, then breadcrumb-Parmesan mixture.",
+      "Heat oil in pan, cook chicken until golden, about 4-5 minutes per side.",
+      "Top with marinara sauce and mozzarella.",
+      "Broil for 2-3 minutes until cheese is bubbly.",
+      "Serve with pasta or salad."
+    ],
+    "prepTime": 20,
+    "cookTime": 15,
+    "nutrition": {
+      "calories": 620,
+      "protein": 42,
+      "carbs": 36,
+      "fat": 35
+    },
+    "tags": ["italian", "dinner", "comfort-food"]
+  },
+  {
+    "id":4,
+    "slug": "fried-chicken",
+    "title": "Southern Fried Chicken",
+    "image": "fried.jpeg",
+    "description": "Crispy, golden fried chicken with a perfectly seasoned crust - a Southern staple that's always a hit.",
+    "ingredients": [
+      "3 lbs chicken pieces",
+      "2 cups buttermilk",
+      "2 cups flour",
+      "1 tbsp paprika",
+      "1 tbsp garlic powder",
+      "1 tbsp onion powder",
+      "1 tsp cayenne pepper",
+      "2 tsp salt",
+      "1 tsp black pepper",
+      "Vegetable oil for frying"
+    ],
+    "steps": [
+      "Soak chicken in buttermilk for at least 4 hours or overnight.",
+      "Mix flour and spices in a large bowl.",
+      "Dredge chicken in flour mixture, shaking off excess.",
+      "Heat oil to 350°F (175°C) in a deep fryer or heavy pot.",
+      "Fry chicken in batches for 12-15 minutes until golden and cooked through.",
+      "Drain on a wire rack, serve hot."
+    ],
+    "prepTime": 30,
+    "cookTime": 20,
+    "nutrition": {
+      "calories": 590,
+      "protein": 40,
+      "carbs": 34,
+      "fat": 32
+    },
+    "tags": ["comfort-food", "fried", "dinner"]
+  },
+  {
+    "id":5,
+    "slug": "french-omelet",
+    "title": "French Omelet",
+    "image": "omelet.jpg",
+    "description": "A light, fluffy classic French omelet with perfect texture - quick enough for weekday breakfasts but elegant enough for brunch.",
+    "ingredients": [
+      "3 large eggs",
+      "1 tbsp butter",
+      "Salt and pepper to taste",
+      "1 tbsp chopped chives",
+      "1/4 cup shredded cheese (optional)",
+      "1 tbsp cream or milk (optional)"
+    ],
+    "steps": [
+      "Whisk eggs with salt, pepper, and cream if using.",
+      "Melt butter in non-stick pan over medium-low heat.",
+      "Pour in eggs, stir gently with a rubber spatula.",
+      "As eggs set, tilt pan to let uncooked egg flow to edges.",
+      "When mostly set but still slightly runny, add fillings if using.",
+      "Fold omelet in half or roll, slide onto plate, garnish with chives."
+    ],
+    "prepTime": 5,
+    "cookTime": 5,
+    "nutrition": {
+      "calories": 310,
+      "protein": 19,
+      "carbs": 3,
+      "fat": 25
+    },
+    "tags": ["breakfast", "quick-meal", "vegetarian"]
+  },
+  {
+    "id":6,
+    "slug": "margherita-pizza",
+    "title": "Margherita Pizza",
+    "image": "pizza.jpeg",
+    "description": "Simple Neapolitan-style pizza with fresh mozzarella, basil, and tomato sauce - letting quality ingredients shine.",
+    "ingredients": [
+      "1 lb pizza dough",
+      "1/2 cup tomato sauce",
+      "8 oz fresh mozzarella, sliced",
+      "Fresh basil leaves",
+      "2 tbsp olive oil",
+      "Salt to taste",
+      "Cornmeal for dusting"
+    ],
+    "steps": [
+      "Preheat oven with pizza stone to 500°F (260°C) for 1 hour.",
+      "Stretch dough to 12-inch round on cornmeal-dusted peel.",
+      "Spread thin layer of sauce, leaving border for crust.",
+      "Arrange mozzarella slices evenly.",
+      "Bake for 10-12 minutes until crust is golden.",
+      "Remove from oven, drizzle with olive oil, add fresh basil, and slice."
+    ],
+    "prepTime": 20,
+    "cookTime": 12,
+    "nutrition": {
+      "calories": 680,
+      "protein": 28,
+      "carbs": 82,
+      "fat": 26
+    },
+    "tags": ["italian", "vegetarian", "dinner"]
+  }
+]

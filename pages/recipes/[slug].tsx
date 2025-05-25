@@ -45,11 +45,7 @@ export default function RecipeDetail({ recipe }: RecipeDetailProps) {
 
       <div className="container mx-auto px-6 py-8">
         <div className="max-w-4xl mx-auto">
-          {isLoaded && isSignedIn && (
-            <div className="mb-6 text-right text-sm text-[#213D34]">
-              Logged in as <strong>{user.fullName || user.username}</strong>
-            </div>
-          )}
+         
 
           <div className="bg-white rounded-lg shadow-md overflow-hidden">
             <div className="p-6 border-b border-[#D4A762]/20">
